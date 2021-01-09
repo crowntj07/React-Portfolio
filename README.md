@@ -20,4 +20,7 @@ that this will _not_ affect your grade, but it may impact how potentials employe
 
 ![react](https://user-images.githubusercontent.com/66528327/104081279-34d1ce80-51f3-11eb-8a93-bcb21041b85b.PNG)
 
-### Link
+![contact](https://user-images.githubusercontent.com/66528327/104082112-f212f500-51f8-11eb-94c3-26685c62a673.PNG)
+
+![port](https://user-images.githubusercontent.com/66528327/104082116-f808d600-51f8-11eb-8f54-54528525c3bc.PNG)
+
